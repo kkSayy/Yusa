@@ -1,0 +1,15 @@
+body{
+
+background: url("img/ponte.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.pon{
+
+font-size: 2px;
+position: absolute;
+top: 65%;
+left: 50%;
+}
